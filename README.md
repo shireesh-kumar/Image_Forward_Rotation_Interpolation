@@ -1,0 +1,6 @@
+# Image_Forward_Rotation_Interpolation
+
+In this code I have attempted to forward rotate the image by a certain angle theta in radians and tried improving the image using nearest_neighbor and bilinear interpolation techniques ... 
+
+bilinear interpolation yet to be implemented ...
+
